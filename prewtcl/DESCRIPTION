@@ -1,0 +1,13 @@
+Package: prewtcl
+Type: Package
+Title: Preweighted Sparse Clustering
+Version: 1.0
+Date: 2013-07-22
+Author: Sheila Gaynor and Eric Bair
+Maintainer: Eric Bair <ebair@email.unc.edu>
+Description: prewtcl is a set of functions that can be used for
+	clustering data. It can be used for supervised or 
+	unsupervised clustering, and implements a form of 
+	sparse k-means clustering.
+License: GPL (>=2)
+Depends: sparcl, survival
